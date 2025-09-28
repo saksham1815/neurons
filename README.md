@@ -4,6 +4,7 @@ Machine Learning (ML) is a subset of Artificial Intelligence (AI) that enables s
 
 🧠 Artificial Neural Networks (ANNs)
 
+
 ANNs are inspired by the structure of the human brain.
 
 They consist of artificial neurons connected by edges (synapses).
